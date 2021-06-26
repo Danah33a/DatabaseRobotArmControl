@@ -1,0 +1,16 @@
+creat database myDBarmControl 
+
+Use myDBarmControl
+
+creat table ControlEngine( 
+
+Engine1 int, 
+
+Engine2 int,
+ 
+Engine3 int,
+ 
+Engine4 int, 
+
+Engine5 int); 
+
